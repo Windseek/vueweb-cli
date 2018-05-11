@@ -1,0 +1,87 @@
+
+  @font-face {
+    font-family: qnhgjhp;
+    src: url('./fonts/download/qnhgjhp.ttf');
+  }
+  @font-face {
+    font-family: txknkt;
+    src: url('./fonts/download/txknkt.ttf');
+  }
+  @font-face {
+    font-family: jtwwz;
+    src: url('./fonts/download/jtwwz.ttf');
+  }
+
+  @font-face {
+    font-family: rzrxmxhj;
+    src: url('./fonts/download/rzrxmxhj.ttf');
+  }
+
+  @font-face {
+    font-family: txxchj;
+    src: url('./fonts/download/txxchj.ttf');
+  }
+  @font-face {
+    font-family: zzgflh;
+    src: url('./fonts/download/zzgflh.otf');
+  }
+  @font-face {
+    font-family: hzgb;
+    src: url('./fonts/download/hzgb.ttf');
+  }
+  @font-face {
+    font-family: zzgfsyt;
+    src: url('./fonts/download/zzgfsyt.otf');
+  }
+  @font-face {
+    font-family: sszhjt;
+    src: url('./fonts/download/sszhjt.ttf');
+  }
+  @font-face {
+    font-family: lxksf;
+    src: url('./fonts/download/lxksf.ttf');
+  }
+  @font-face {
+    font-family: PingFang;
+    src: url('./fonts/download/PingFang Bold.ttf');
+  }
+  @font-face {
+    font-family: wryh;
+    src: url('./fonts/download/wryh.ttf');
+  }
+  @font-face {
+    font-family: HWHeiti;
+    src: url('./fonts/download/HWHeiti.ttf');
+  }
+  
+  .font-size-18 {
+    font-size: 18px;
+  }
+  .font-size-24 {
+    font-size: 24px;
+  }
+  .font-size-28{
+    font-size: 28px;
+  }
+  .font-size-32{
+    font-size: 32px;
+  }
+  .font-size-34{
+    font-size: 34px;
+  }
+  .font-size-36{
+    font-size: 36px;
+  }
+  .font-size-40{
+    font-size: 40px;
+  }
+  .font-size-44{
+    font-size: 44px;
+  }
+  .font-size-48{
+    font-size: 48px;
+  }
+  .font-size-50{
+    font-size: 50px;
+  }
+  
