@@ -10,9 +10,12 @@ export default {
     },
     created() {
       console.log("created是vue生命周期里的一个钩子函数，在vue对象生成之后会触发");
+      this.query();
     },
     methods: {
-      
+      query() {
+        console.log("我习惯性写这个方法，进入页面会请求后台数据，或者是表单，或者是列表")
+      }
     }
   }
 </script>
