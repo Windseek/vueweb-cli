@@ -11,6 +11,7 @@ export default {
     created() {
       console.log("created是vue生命周期里的一个钩子函数，在vue对象生成之后会触发");
       this.query();
+      console.log("这个是分支");
     },
     methods: {
       query() {
